@@ -64,7 +64,7 @@
     </div>
     <div class="logout">
       <div class="logout_hijo">
-        <button class="btn btn-dark" @click="onLogout">Logout this view</button>
+        <button class="btn btn-danger" @click="onLogout">Salir del modo ADMIN.</button>
       </div>
     </div>
   </div>
